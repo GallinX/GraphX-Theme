@@ -7,28 +7,17 @@ Made some color edits for visibility as some may not want the stark white colors
 Go to `Settings > Themes` and search for "GraphX".
 
 #### From source
-Clone [this repository][repo] and run `make install` or `make install-dark`.
+Clone this repo and run `make install` or `make install-dark`.
 
 #### Cinnamon Spices
-Go [here][spices] and download the theme. Then extract the content into your `~/.theme` folder.
+Go and download the theme. Then extract the content into your `~/.theme` folder.
 
----
-## Developing
-Run `./utils.sh watch` to automatically compile and reload the theme. It will create a link in `~/.themes`.
-
-_It's important to run utils.sh from its containing directory._
-
-### Contributing
-Contributions are accepted via GitHub pull requests [here][repo]. Please, if you modify any image resource, run `./utils.sh simplify` before creating a commit.
 
 **IMPORTANT**: Never edit CSS files directly. They are overriden at build.
 
-### Build dependencies
-* `sassc`: compile sass files
-* `inotifywait (inotify-tools)`: watch for changes (optional)
-* `scour`: remove svg metadata (optional)
 
-## Changes From Adara
+
+## Brunnera Changes From Adara
 - Made panel more transparent
 - Calendar menu has been fixed
 - - Event Box is properly themed
@@ -57,7 +46,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
-
+##Brunnera Links##
 [repo]: https://github.com/wolfiediscord/Brunnera
 [spices]: https://cinnamon-spices.linuxmint.com/themes/view/Brunnera
 [archive]: https://github.com/wolfiediscord/Brunnera/releases
