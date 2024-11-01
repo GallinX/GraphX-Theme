@@ -1,11 +1,10 @@
-# [Brunnera Cinnamon theme][repo]
-> 
-
-[![](Brunnera/screenshot.png)![](Brunnera/screenshot.png)][repo]
+# [GraphX Cinnamon theme][repo]
+> Theme anyone can use as a Fix for a linux mint visual bug in start menu where the left scroll bar seems to tear. 
+Made some color edits for visibility as some may not want the stark white colors of the Brunnera base theme.
 
 ## Installation
 ### Cinnamon Settings (recommended)
-Go to `Settings > Themes` and search for "Brunnera".
+Go to `Settings > Themes` and search for "GraphX".
 
 #### From source
 Clone [this repository][repo] and run `make install` or `make install-dark`.
@@ -63,5 +62,3 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 [spices]: https://cinnamon-spices.linuxmint.com/themes/view/Brunnera
 [archive]: https://github.com/wolfiediscord/Brunnera/releases
 
-Theme anyone can use as a Fix for a linux mint visual bug in start menu where the left scroll bar seems to tear. 
-Made some color edits for visibility as some may not want the stark white colors of the Brunnera base theme.
