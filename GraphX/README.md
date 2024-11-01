@@ -15,6 +15,10 @@ Go and download the theme. Then extract the content into your `~/.theme` folder.
 
 **IMPORTANT**: Never edit CSS files directly. They are overriden at build.
 
+## Brunnera Links##
+[repo]: https://github.com/wolfiediscord/Brunnera
+[spices]: https://cinnamon-spices.linuxmint.com/themes/view/Brunnera
+[archive]: https://github.com/wolfiediscord/Brunnera/releases
 
 
 ## Brunnera Changes From Adara
@@ -46,8 +50,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
-##Brunnera Links##
-[repo]: https://github.com/wolfiediscord/Brunnera
-[spices]: https://cinnamon-spices.linuxmint.com/themes/view/Brunnera
-[archive]: https://github.com/wolfiediscord/Brunnera/releases
 
